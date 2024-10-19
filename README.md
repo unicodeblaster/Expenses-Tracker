@@ -32,10 +32,6 @@
 ## Screenshots
 # Dashboard - View Expense
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/47943654-8b88-4adb-afd2-2fc2ce7be0a2)
-
-
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/16dc906d-8092-441d-9214-12b42d0404d3)
 
 
 # Home - Add Expense 
