@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/Raghav-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavgarg2002/)
-![Instagram Badge](https://img.shields.io/badge/grraghav120@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
+
 
 ## Celebrating 300+ Active Users on Expense Tracker 🥳🎉🍾
 
@@ -10,21 +9,6 @@
 # About our Project
 
 
-<div align="left">
-   <br>
-   <img src="https://img.shields.io/github/repo-size/grraghav120/expense-tracker?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues/grraghav120/expense-tracker?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-closed-raw/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/license/grraghav120/expense-tracker?style=for-the-badge" />
-
-   <img src="https://img.shields.io/github/issues-pr/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/grraghav120/expense-tracker?style=for-the-badge" />
-
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/grraghav120/expense-tracker?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/grraghav120/expense-tracker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/grraghav120/expense-tracker?style=for-the-badge" />
-</div>  
 
 # Quick Acces 😏
 
