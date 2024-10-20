@@ -84,7 +84,6 @@
 
 # Database
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b490db8a-d765-4506-af9c-31185646ad2d)
 
 
 
