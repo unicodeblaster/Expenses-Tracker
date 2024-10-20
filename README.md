@@ -51,6 +51,7 @@
 
 # Profile - User
 
+![image](https://github.com/user-attachments/assets/7f0742ff-ee74-4d35-ac2b-2e09b71c6a61)
 
 
 # Edit Expense
@@ -61,7 +62,7 @@
 
 # View Expense
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/2eb61c22-2b25-4c21-ace6-efb8e836e36a)
+![image](https://github.com/user-attachments/assets/81b1a2f3-19e5-49fa-be10-30ae080257b9)
 
 
 
