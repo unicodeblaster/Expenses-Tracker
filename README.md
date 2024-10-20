@@ -44,9 +44,10 @@
 
 # Expense Summary
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/915db7b6-4567-48bb-8147-21787da4d6d0)
+![image](https://github.com/user-attachments/assets/167c1845-0367-4bd9-a4e2-493481fd93d0)
+![image](https://github.com/user-attachments/assets/1ef21e0a-1fa9-415a-b9a3-5298ae71de5f)
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/a5d048f7-2adc-496b-9c4a-af5fdbf221b0)
+
 
 
 # Profile - User
@@ -54,11 +55,6 @@
 ![image](https://github.com/user-attachments/assets/7f0742ff-ee74-4d35-ac2b-2e09b71c6a61)
 
 
-# Edit Expense
-
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/8f0af600-4311-4b63-9aff-95b20de67be4)
-
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/02d2e634-cd47-4ed5-944d-77467afc6be7)
 
 # View Expense
 
