@@ -1,6 +1,6 @@
 
 
-## Celebrating 300+ Active Users on Expense Tracker 🥳🎉🍾
+
 
 # ExpenseTracker
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
@@ -67,7 +67,8 @@
 
 
 # Logout
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/04bc9557-aad8-4f5b-8ec1-077fa3262be9)
+![image](https://github.com/user-attachments/assets/b7e7f4b1-caa9-46cf-83a3-485f41335488)
+
 
 
 # Login
